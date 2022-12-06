@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+#outros :hover{
+color: white;
+text-decoration-color: black;
+}
+
+
+#p{
+padding-left: 30px;
+}
